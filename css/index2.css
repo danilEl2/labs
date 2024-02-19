@@ -35,3 +35,25 @@ ul {
 ol {
     list-style-type: decimal-leading-zero;
 }
+
+span {
+    text-decoration: line-through
+}
+
+.underline {
+    text-decoration: underline
+}
+
+
+
+
+td {
+    border: 2px solid grey;
+    padding: 12px;
+    padding-left: 115px;
+}
+
+table {
+    border: 2px solid grey;
+    border-collapse: collapse;
+}
